@@ -1,7 +1,7 @@
 # teaching
 Development classes for ma'sista!
 
-Install Git.
+**Install Git.**
 
 Go to the following site:
 
