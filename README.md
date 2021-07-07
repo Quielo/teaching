@@ -43,3 +43,5 @@ the basics of programming.
 Python and Django Full Stack Web Developer Bootcamp
 
 https://www.udemy.com/home/my-courses/learning
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
