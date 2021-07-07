@@ -15,6 +15,8 @@ go to:
  
 And download VSCode.
 
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
 There are 3 things that you would need to master in order
 to become a great developer.
 
