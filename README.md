@@ -38,7 +38,7 @@ about Git, I want you to make a pull to your local from this remote.
 
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 
-Now, you can star taking this course (credentials by DM)
+Now, you can start taking this course (credentials by DM)
 and after you are done with HTML and CSS, I would teach you
 the basics of programming.
 (Section 1 to 6)
